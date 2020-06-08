@@ -1,6 +1,6 @@
 <?php
 
-namespace arclegrandroi\arcbroakcast;
+namespace arclegrandroi\arcrepetymessage;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
