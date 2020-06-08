@@ -1,13 +1,13 @@
 <?php
 
-namespace arclegrandroi\arcbroakcast;
+namespace arclegrandroi\arcrepetymessage;
 
 use pocketmine\scheduler\Task;
 use pocketmine\Server;
 use pocketmine\utils\Config;
 use pocketmine\plugin\PluginBase;
 
-use arclegrandroi\arcbroakcast\Main;
+use arclegrandroi\arcrepetymessage\Main;
 
 class PopupTask extends Task {
    
