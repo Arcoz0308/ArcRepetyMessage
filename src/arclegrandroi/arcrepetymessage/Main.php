@@ -5,8 +5,8 @@ namespace arclegrandroi\arcrepetymessage;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
 
-use arclegrandroi\arcbroakcast\MsgTask;
-use arclegrandroi\arcbroakcast\PopupTask;
+use arclegrandroi\arcrepetymessage\MsgTask;
+use arclegrandroi\arcrepetymessage\PopupTask;
 
 class Main extends PluginBase {
    
