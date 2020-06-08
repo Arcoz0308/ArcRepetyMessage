@@ -1,0 +1,43 @@
+message: true
+
+random-message: 5
+
+message-time: 3
+
+message1: "the are {online} player online"
+message2: "info , info , info"
+message3: "info , info , info"
+message4: "info , info , info"
+message5: "info , info , info"
+message6: "info , info , info"
+message7: "info , info , info"
+message8: "info , info , info"
+message9: "info , info , info"
+message10: "info , info , info"
+message11: "info , info , info"
+message12: "info , info , info"
+message13: "info , info , info"
+message14: "info , info , info"
+message15: "info , info , info"
+
+popup: true
+
+random-popup: 10
+
+popup-time: 30
+
+popup1: "info, info, info"
+popup2: "the are {online} player online"
+popup3: "the are {online} player online"
+popup4: "the are {online} player online"
+popup5: "the are {online} player online"
+popup6: "the are {online} player online"
+popup7: "the are {online} player online"
+popup8: "the are {online} player online"
+popup9: "the are {online} player online"
+popup10: "the are {online} player online"
+popup11: "the are {online} player online"
+popup12: "the are {online} player online"
+popup13: "the are {online} player online"
+popup14: "the are {online} player online"
+popup15: "the are {online} player online"
